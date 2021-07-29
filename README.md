@@ -6,6 +6,6 @@ Funções de inserir e remover em arvores balanceadas. Disciplina de Estruturas 
 gcc -o main *.c
 
 
-<h3>Executando<h3>
+<h3>Executando</h3>
   
 ./main
