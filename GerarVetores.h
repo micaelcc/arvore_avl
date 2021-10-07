@@ -1,7 +1,3 @@
-//
-// Created by micael on 29/07/2021.
-//
-
 #ifndef EDAP2_GERARVETORES_H
 #define EDAP2_GERARVETORES_H
 

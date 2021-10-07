@@ -1,7 +1,3 @@
-//
-// Created by micael on 29/07/2021.
-//
-
 #include "GerarVetores.h"
 #include <stdlib.h>
 #include <time.h>

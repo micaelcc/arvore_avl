@@ -1,7 +1,3 @@
-//
-// Created by micael on 29/07/2021.
-//
-
 #include "ArvoreAVL.h"
 #include <stdio.h>
 #include <stdlib.h>

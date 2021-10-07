@@ -1,6 +1,5 @@
-//
-// Created by micael on 29/07/2021.
-//
+//Compilar: gcc -o main *.c
+//Executar: ./main
 
 #include "ArvoreAVL.h"
 #include "GerarVetores.h"
@@ -10,8 +9,7 @@ int main() {
 
     int i;
 
-
-    for (i = 0; i < 1; i++) {
+    for (i = 0; i < 1000; i++) {
         int *vet;
         int *vet_2;
         int j;
@@ -63,9 +61,7 @@ int main() {
             printf("Arvore nao eh AVL");
             return 0;
         }
-
-        //Progresso de criacao/verificacao das arvores
-        printf("%lf %%\n", (double) (i*100.0)/1000.0 );
+        
     }
 
     printf("Todas as arvores foram criadas com sucesso!\n");
